@@ -1,7 +1,7 @@
 ﻿using System;
 
 
-namespace R5T.T0018.Code.Constants
+namespace R5T.T0018
 {
     /// <summary>
     /// Data-as-code for the different ASP.NET Core related environment variables recognized by the web host (and generic host).
